@@ -1,0 +1,9 @@
+{
+  "name": "sword-preventive-campaigns-prototype",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev:api": "pnpm --filter @workspace/api-server dev",
+    "dev:ui": "pnpm --filter @workspace/sword-intelligence dev"
+  }
+}
